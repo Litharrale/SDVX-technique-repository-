@@ -1,1 +1,2 @@
-# SDVX-technique-repository-
+# SDVX technique repository 
+Made by Lith
